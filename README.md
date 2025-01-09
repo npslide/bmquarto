@@ -1,4 +1,4 @@
-# Quarto Reveal Extension For Department Presentation
+# Quarto Extension For Biochemistry and Microbiology Department Documents
 
 _TODO_: Add a short description of your extension.
 
