@@ -1,11 +1,11 @@
-# Cureveal Extension For Quarto
+# Quarto Reveal Extension For Department Presentation
 
 _TODO_: Add a short description of your extension.
 
 ## Installing
 
 ```bash
-quarto add npslide/cuquarto
+quarto add npslide/bmquarto
 ```
 
 This will install the extension under the `_extensions` subdirectory.
